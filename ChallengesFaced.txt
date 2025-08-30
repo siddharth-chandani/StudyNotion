@@ -1,0 +1,27 @@
+1. Forgot to add user in localstorage 
+I was logged in and along with I was developing the page of dashboard 
+and then when i try to see this then it in the frontend then it was showing un-defined
+Why? Bcz i havent store the value of user in localstorage and the page was already refreshed
+And I was unaware about that, So I took a learing there
+
+
+2. In the Add Section button, I mistakely set the onclick buttton syntax wrongly.
+Instead of calling the function in the arrow function, I directly called the function name in the onclick event.
+
+
+3. RazorPay Integration 
+
+Domestic RuPay Card
+Card Number: 2305 3242 5784 8228
+Expiry: Any future date
+CVV: 123
+Name: Any name
+
+UPI Test
+Success: success@razorpay
+Failure: failure@razorpay
+
+
+4. Lets say A student is enrolled in X course and he is able to access the lectures then
+He shares the url with B friend and he is also able to access it even though he is not enrolled in the course.
+
